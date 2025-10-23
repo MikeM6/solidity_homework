@@ -1,0 +1,22 @@
+# Common Ignores
+node_modules/
+artifacts/
+cache/
+coverage/
+.env
+.DS_Store
+dist/
+out/
+
+# Foundry
+lib/
+broadcast/
+
+# Hardhat
+typechain/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
