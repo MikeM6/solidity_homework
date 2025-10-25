@@ -1,0 +1,15 @@
+{
+    "name": "My First NFT",
+    "description": "A demo NFT with image + attributes",
+    "image": "ipfs://bafkreid5rpbz4rlhzyvn2jwhlpfa566m6ws3nklllnhuelkbeasfno7mhi",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ]
+}
